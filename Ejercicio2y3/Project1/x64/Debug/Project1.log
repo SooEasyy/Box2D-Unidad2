@@ -1,0 +1,38 @@
+﻿  main.cpp
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:         with
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:             T=unsigned int
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:         and
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:             T=float
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(69,53): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:         with
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:             T=unsigned int
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:         and
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:             T=float
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(74,56): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:         with
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:             T=unsigned int
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:         and
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:             T=float
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(79,61): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:         with
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:             T=unsigned int
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:         and
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:             T=float
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio2y3\Project1\main.cpp(84,62): warning C4244:         ]
+  Project1.vcxproj -> D:\VS Proyects\MAVI2\Unidad2\Bin\Debug\Project1.exe

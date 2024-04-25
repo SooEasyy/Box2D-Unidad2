@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,83): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,83): warning C4244:         with
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,83): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,83): warning C4244:             T=float
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,83): warning C4244:         ]
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,62): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,62): warning C4244:         with
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,62): warning C4244:         [
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,62): warning C4244:             T=float
+D:\VS Proyects\MAVI2\Unidad2\Ejercicio6\Project1\main.cpp(42,62): warning C4244:         ]
+  Project1.vcxproj -> D:\VS Proyects\MAVI2\Unidad2\Bin\Debug\Project1.exe

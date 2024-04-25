@@ -1,0 +1,1 @@
+Versión de SFML v2.5.1
